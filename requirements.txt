@@ -1,0 +1,4 @@
+scrapy~=2.11.1
+selenium~=4.19.0
+tinydb~=4.8.0
+flask~=3.0.3
